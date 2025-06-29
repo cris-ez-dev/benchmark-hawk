@@ -1,0 +1,7 @@
+#ifndef CONFIGURACION_H
+#define CONFIGURACION_H
+
+#define REPETICIONES 5
+#define N_POR_DEFECTO 1024
+
+#endif
