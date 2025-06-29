@@ -52,7 +52,6 @@ Mkfile.old
 dkms.conf
 # Archivos generados por tus builds o experimentos
 /results/
-*.csv
 
 # Visual Studio Code
 .vscode/
